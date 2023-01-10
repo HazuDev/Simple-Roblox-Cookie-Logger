@@ -1,0 +1,4 @@
+requests
+discord_webhook
+browser_cookie3
+flask
